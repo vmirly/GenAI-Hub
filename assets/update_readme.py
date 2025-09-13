@@ -103,7 +103,7 @@ def generate_markdown(models: List[Tuple[str, List[str]]]) -> str:
         for task in sorted(by_task.keys(), key=lambda s: s.lower()):
             names = sorted(by_task[task], key=lambda s: s.lower())
             items = "\n".join(f"  * [{n}]({n})" for n in names)
-            by_task_md.append(f"**{task}**\n{items}")
+            by_task_md.append(f"\n**{task}**\n{items}")
 
     by_model_block = by_model_lines or ["_No models found._"]
     by_task_block = by_task_md or ["_No task tags found._"]

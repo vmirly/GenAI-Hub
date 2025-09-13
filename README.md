@@ -17,21 +17,29 @@ A collection of Jupyter notebooks showcasing the use of Generative AI models, in
 
 ### Index (by task)
 
+
 **3D**
   * [VGGT](VGGT)
+
 **contrastive**
   * [CLIP](CLIP)
+
 **detection**
   * [OWL-v2](OWL-v2)
   * [OWL-ViT](OWL-ViT)
+
 **image-features**
   * [CLIP](CLIP)
+
 **ovd**
   * [OWL-v2](OWL-v2)
   * [OWL-ViT](OWL-ViT)
+
 **segmentation**
   * [SAM](SAM)
+
 **text-features**
   * [CLIP](CLIP)
 
 <!-- AUTO-GENERATED:MODEL-INDEX:END -->
+
