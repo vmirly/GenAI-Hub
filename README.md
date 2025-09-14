@@ -10,6 +10,8 @@ A collection of Jupyter notebooks showcasing the use of Generative AI models, in
 ### Index (by model)
 
 * [CLIP](CLIP) — contrastive, image-features, text-features
+* [DepthAnything](DepthAnything) — depth-estimation
+* [DepthPro](DepthPro) — depth-estimation
 * [OWL-v2](OWL-v2) — detection, ovd
 * [OWL-ViT](OWL-ViT) — detection, ovd
 * [SAM](SAM) — segmentation
@@ -23,6 +25,10 @@ A collection of Jupyter notebooks showcasing the use of Generative AI models, in
 
 **contrastive**
   * [CLIP](CLIP)
+
+**depth-estimation**
+  * [DepthAnything](DepthAnything)
+  * [DepthPro](DepthPro)
 
 **detection**
   * [OWL-v2](OWL-v2)
@@ -42,4 +48,5 @@ A collection of Jupyter notebooks showcasing the use of Generative AI models, in
   * [CLIP](CLIP)
 
 <!-- AUTO-GENERATED:MODEL-INDEX:END -->
+
 
