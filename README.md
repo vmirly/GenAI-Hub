@@ -9,9 +9,11 @@ A collection of Jupyter notebooks showcasing the use of Generative AI models, in
 
 ### Index (by model)
 
+* [BEN2](BEN2) — segmentation, HR-seg, DIS
 * [CLIP](CLIP) — contrastive, image-features, text-features
 * [DepthAnything](DepthAnything) — depth-estimation
 * [DepthPro](DepthPro) — depth-estimation
+* [DiffDIS](DiffDIS) — segmentation, HR-seg, DIS
 * [OWL-v2](OWL-v2) — detection, ovd
 * [OWL-ViT](OWL-ViT) — detection, ovd
 * [SAM](SAM) — segmentation
@@ -34,6 +36,14 @@ A collection of Jupyter notebooks showcasing the use of Generative AI models, in
   * [OWL-v2](OWL-v2)
   * [OWL-ViT](OWL-ViT)
 
+**DIS**
+  * [BEN2](BEN2)
+  * [DiffDIS](DiffDIS)
+
+**HR-seg**
+  * [BEN2](BEN2)
+  * [DiffDIS](DiffDIS)
+
 **image-features**
   * [CLIP](CLIP)
 
@@ -42,11 +52,14 @@ A collection of Jupyter notebooks showcasing the use of Generative AI models, in
   * [OWL-ViT](OWL-ViT)
 
 **segmentation**
+  * [BEN2](BEN2)
+  * [DiffDIS](DiffDIS)
   * [SAM](SAM)
 
 **text-features**
   * [CLIP](CLIP)
 
 <!-- AUTO-GENERATED:MODEL-INDEX:END -->
+
 
 
