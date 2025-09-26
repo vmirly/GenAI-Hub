@@ -18,6 +18,7 @@ A collection of Jupyter notebooks showcasing the use of Generative AI models, in
 * [OWL-v2](OWL-v2) — detection, ovd
 * [OWL-ViT](OWL-ViT) — detection, ovd
 * [SAM](SAM) — segmentation
+* [SAM-2](SAM-2) — segmentation
 * [SAM-HQ](SAM-HQ) — segmentation
 * [SmolVLM](SmolVLM) — VLM, VQA
 * [VGGT](VGGT) — 3D
@@ -59,6 +60,7 @@ A collection of Jupyter notebooks showcasing the use of Generative AI models, in
   * [BEN2](BEN2)
   * [DiffDIS](DiffDIS)
   * [SAM](SAM)
+  * [SAM-2](SAM-2)
   * [SAM-HQ](SAM-HQ)
 
 **text-features**
@@ -71,6 +73,7 @@ A collection of Jupyter notebooks showcasing the use of Generative AI models, in
   * [SmolVLM](SmolVLM)
 
 <!-- AUTO-GENERATED:MODEL-INDEX:END -->
+
 
 
 
