@@ -1,0 +1,3 @@
+{
+    "tasks": ["segmentation", "seg-refinement"]
+}
