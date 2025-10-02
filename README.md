@@ -15,6 +15,7 @@ A collection of Jupyter notebooks showcasing the use of Generative AI models, in
 * [DepthPro](DepthPro) — depth-estimation
 * [DiffDIS](DiffDIS) — segmentation, HR-seg, DIS
 * [DPT](DPT) — depth-estimation
+* [OVSeg](OVSeg) — segmentation, oopen-vocab segmentation
 * [OWL-v2](OWL-v2) — detection, ovd
 * [OWL-ViT](OWL-ViT) — detection, ovd
 * [SAM](SAM) — segmentation
@@ -53,6 +54,9 @@ A collection of Jupyter notebooks showcasing the use of Generative AI models, in
 **image-features**
   * [CLIP](CLIP)
 
+**oopen-vocab segmentation**
+  * [OVSeg](OVSeg)
+
 **ovd**
   * [OWL-v2](OWL-v2)
   * [OWL-ViT](OWL-ViT)
@@ -63,6 +67,7 @@ A collection of Jupyter notebooks showcasing the use of Generative AI models, in
 **segmentation**
   * [BEN2](BEN2)
   * [DiffDIS](DiffDIS)
+  * [OVSeg](OVSeg)
   * [SAM](SAM)
   * [SAM-2](SAM-2)
   * [SAM-HQ](SAM-HQ)
@@ -78,6 +83,7 @@ A collection of Jupyter notebooks showcasing the use of Generative AI models, in
   * [SmolVLM](SmolVLM)
 
 <!-- AUTO-GENERATED:MODEL-INDEX:END -->
+
 
 
 
